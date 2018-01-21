@@ -21,3 +21,5 @@ $ git clone https://github.com/Shougo/dein.vim.git \
 $ brew install bash-completion
 $ brew install git
 ```
+
+### Windows
